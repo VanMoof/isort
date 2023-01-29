@@ -39,7 +39,7 @@ include = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.8.0"
+python = ">=3.7.0"
 pipreqs = {version = "*", optional = true}
 requirementslib = {version = "*", optional = true}
 pip-shims = {version = ">=0.5.2", optional = true}
